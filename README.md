@@ -61,4 +61,4 @@ After the OS is selected, the script activates Windows by configuring the KMS se
 ## Notes
 
 - This script is intended for educational or troubleshooting purposes only. Use it in accordance with Microsoft's licensing agreements.
-- The product keys used in the script are placeholders and may not be valid for actual activation.
+- The product keys used in the script are placeholders and may not be secure or valid for actual activation.
